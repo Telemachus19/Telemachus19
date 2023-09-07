@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&center=true&vCenter=true&width=475&lines=Hello%2C+friend.+Hello%2C+friend%3F+That's+lame.;Let's+change+things+up+a+bit.;Hello%2C+there!+I'm+Ahmed.+;Aspiring+to+be+an+embedded+systems+engineer.)](https://git.io/typing-svg)
 <!--
 **Telemachus19/Telemachus19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
